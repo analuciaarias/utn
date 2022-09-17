@@ -1,0 +1,44 @@
+h1{
+    color: rgb(90, 90, 187);
+    background-color: rgb(189, 176, 103);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* titulo */
+h2{
+    color: rgb(90, 90, 180);
+    background-color: rgb(187, 186, 111);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: rgb(104, 18, 185);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.destacados{
+    color: rgb(42, 114, 114);
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+#rojo{
+    width: 450px;
+    height: 350px;
+    background-color: rgb(231, 75, 75);
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 30px 30px 70px 100px;
+    
+    border: 5px solid green;
+}
+
+#verde{
+    width: 450px;
+    height: 350px;
+    background-color: rgb(25, 160, 115);
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px solid red;
+}
