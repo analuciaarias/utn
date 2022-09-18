@@ -1,0 +1,28 @@
+/* aca puedo dejar machetes */
+.caja{
+    width: 300px;
+    height: 250px;
+    background-color: yellow;
+    margin: 30px;
+    box-shadow: 10px 10px 10px black;
+}
+.cajados{
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: greenyellow;
+    margin: 30px;
+    border-radius: 5px;
+    border: 3px solid black;
+    
+}
+.texto{
+    background-color: gray;
+    column-count: 4;
+    column-gap: 15px;
+}
+.texto p{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
