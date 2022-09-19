@@ -1,0 +1,11 @@
+.contenedor{
+    background-color: lightpink;
+    display: inline-flex;
+}
+.item{
+    font-size: 15px;
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}

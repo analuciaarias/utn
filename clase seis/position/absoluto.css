@@ -1,0 +1,28 @@
+/* absoluto */
+.contenedor{
+    width: 80%;
+    height: 600px;
+    background-color: blueviolet;
+    margin: 0 auto;
+}
+.rojo{
+    background-color: red;
+    width: 90%;
+    height: 100px;
+    margin: 0px auto 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.verde{
+    background-color: green;
+    width: 90%;
+    height: 100px;
+    margin: 10px auto 20px;
+}
+.azul{
+    background-color: blue;
+    width: 90%;
+    height: 100px;
+    margin: 10px auto 20px;
+}

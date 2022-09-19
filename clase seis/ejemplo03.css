@@ -1,0 +1,17 @@
+.contenedor{
+    background-color: rgb(204, 57, 79);
+    display: flex;
+    justify-content: center;
+    
+}
+.item{
+    font-size: 15px;
+    background-color: lightblue;
+    width: 80px;
+    height: 100px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

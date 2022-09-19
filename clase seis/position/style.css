@@ -1,0 +1,25 @@
+/* estatico */
+.contenedor{
+    width: 80%;
+    height: 600px;
+    background-color: blueviolet;
+    margin: 0 auto;
+}
+.rojo{
+    background-color: red;
+    width: 90%;
+    height: 100px;
+    margin: 10px auto 20px;
+}
+.verde{
+    background-color: green;
+    width: 90%;
+    height: 100px;
+    margin: 10px auto 20px;
+}
+.azul{
+    background-color: blue;
+    width: 90%;
+    height: 100px;
+    margin: 10px auto 20px;
+}

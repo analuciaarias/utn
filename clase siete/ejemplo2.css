@@ -1,0 +1,12 @@
+.caja{
+    background-color: greenyellow ;
+    width: 450px;
+    height: 250px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
