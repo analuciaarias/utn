@@ -7,5 +7,5 @@ while(x<= cuantos){
     suma += valor;
     x++
 }
-document.write(suma + <br/>);
+document.write(suma + '<br/>');
 document.write(`la suma de los valores son ${suma}`);
