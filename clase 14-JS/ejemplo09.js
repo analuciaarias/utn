@@ -3,12 +3,12 @@ function validarLargo(texto,largoRequerido){
 }
 function validarForm(){
     const nombreValido = true;
-    const passwordValido= validarLargo(document.form1.text1.value, 5);
+    const passWordValido= validarLargo(document.form1.text1.value, 5);
     
-    const resultado= nombreValido &&passWordValido;
+    const resultado= nombreValido && passWordValido;
     if(resultado){
         alert('Es valido')
-    } else{
+    } else {
         alert('NO es valido')
     }
 }
